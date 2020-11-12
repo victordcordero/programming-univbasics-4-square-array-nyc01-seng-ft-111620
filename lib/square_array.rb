@@ -5,3 +5,4 @@ def square_array(array)
     puts array*array
     index = index + 1
 end
+end
