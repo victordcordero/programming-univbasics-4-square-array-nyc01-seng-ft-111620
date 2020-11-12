@@ -1,9 +1,10 @@
 def square_array(array)
   # your code here
-  count = 0
-  while count < array.length
-    new_array = array[count] * array[count]
-    count += 1
-end
-new_array
-end
+  new_array = []
+   counter = 0 
+   while counter < numbers.length()
+   new_array.push(numbers[counter] * numbers[counter])
+   counter += 1
+   end 
+   return new_array
+ end
