@@ -4,6 +4,4 @@ def square_array(array)
   while index <= 5
     puts index*index
     index = index + 1
-  array.while do |array|
-
 end
